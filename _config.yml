@@ -20,7 +20,7 @@ author: Gaurav Dhungel
 ###############################################
 
 navbar-links:
-  CV:
+  CV: "/assets/CV_GD_July2025.pdf"
   Research Projects: ""
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
