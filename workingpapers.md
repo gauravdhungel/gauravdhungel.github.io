@@ -7,6 +7,7 @@ This project aims to refine forest sector models by building an ecological-econo
 to assess interactions between market dynamics, environmental change, and management interventions, including assessing new and emerging markets for biochar on the resource base and rural economy in southern Appalachia. A related blog post 
 
 <img src="/assets/img/Fig4.jpg" alt="ecol econ">
+
 ---
 
 ## Economics of Potential Alternative Oak Management Practice in the Southern Appalachia
