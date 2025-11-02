@@ -2,7 +2,7 @@
 
 ---
 
-<h2 style="font-size:1.2rem; line-height:1.3; margin:0;">
+<h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
 Spatial Expansion of the Subregional Timber Supply (SRTS) Model to the Central Hardwood Forest Region
 </h2>
   
