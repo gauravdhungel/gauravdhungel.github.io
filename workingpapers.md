@@ -16,6 +16,7 @@ To examine the economics of the potential management intervention for improved o
 <img src="/assets/img/Table3.jpg" alt="wnc">
 
 **Dissertation (Chapter 4):** <https://www.lib.ncsu.edu/resolver/1840.20/45570>
+
 ---
 
 ## Physical Presence, Practical Absence: Accessibility of Timber Inventory in the Eastern US
@@ -25,6 +26,7 @@ We employ a mix of regression and spatial analysis to estimate and visualize tim
 <img src="/assets/img/Fig3.jpg" alt="Accessible">
 
 **Preprint:** <https://dx.doi.org/10.2139/ssrn.5360648>
+
 ---
 
 ## Management, Markets, and Mesophication: An Empirical Exploration of Oak Forests in the Southeastern US
