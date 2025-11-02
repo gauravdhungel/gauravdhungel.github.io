@@ -4,7 +4,7 @@
 ## An Ecological-Economic Framework of Alternative Forest Management in the Southern Appalachian Region
 
 This project aims to refine forest sector models by building an ecological-economic framework that simulates detailed landscape-scale management interventions in complex hardwood forests of the southern Appalachia. In my current capacity as an ORISE fellow, I am building an economic optimization model of hardwood systems and analyzing simulation modeling results
-to assess interactions between market dynamics, environmental change, and management interventions, including assessing new and emerging markets for biochar on the resource base and rural economy in southern Appalachia. A related blog post 
+to assess interactions between market dynamics, environmental change, and management interventions, including assessing new and emerging markets for biochar on the resource base and rural economy in southern Appalachia. A related [blog post](https://research.cnr.ncsu.edu/sofac/2024/01/13/new-markets-for-small-roundwood-and-forest-residues-in-appalachia/). 
 
 <img src="/assets/img/Fig4.jpg" alt="ecol econ">
 
