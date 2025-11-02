@@ -1,15 +1,14 @@
 
 
 ---
-<div style="font-size:1.25rem; text-align:justify; margin:0;">
-## Spatial Expansion of the Subregional Timber Supply (SRTS) Model to the Central Hardwood Forest Region
-</div>
+
+## Spatial Expansion of the Subregional Timber Supply (SRTS) Model to the Central Hardwood Forest Region {: style="font-size:1.25rem; text-align:justify; margin:0;"}
 
 <div style="text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">
 We examined the importance of market demand parameters, including growth rates for product demand and supply/demand elasticities, in influencing future inventory trajectories of high-grade white oak timber in different subregions over the projection horizon. Results of this study indicate that more elastic demand and more inelastic supply response concomitantly defer the time before the inventory culminates.
 </div>
 
-<img src="/assets/img/Fig2.jpg" alt="Hardwood SRTS" style="max-width: 420px; width: 60%; height: auto; display: block; margin: 0.75rem auto;">
+<img src="/assets/img/Fig2.jpg" alt="Hardwood SRTS">
 
 **Full paper:** <https://doi.org/10.1093/jofore/fvad005>
 
