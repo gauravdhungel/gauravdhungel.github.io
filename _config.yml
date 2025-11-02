@@ -23,7 +23,7 @@ navbar-links:
   CV: "/assets/CV_GD_July2025.pdf"
   Research Projects:
     - Working Papers & Projects: 
-    - Past Projects: 
+    - Past Projects: "pastproject"
   Google Scholar: "https://scholar.google.com/citations?user=owDlt0YAAAAJ&hl=en"
   My 5 to 9: 
   Biography: "aboutme"
