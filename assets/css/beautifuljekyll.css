@@ -379,11 +379,6 @@ img {
   {% endunless %}
   display: block;
 }
-
-@media (min-width: 1200px) {
-  .navbar-custom .avatar-container .avatar-img {
-    object-position: 50% 70%; 
-  }
   
 .navbar-custom.top-nav-expanded .avatar-container {
   display: none;
@@ -392,7 +387,7 @@ img {
 @media (min-width: 1200px) {
   .navbar-custom.top-nav-regular .avatar-container {
     width: 6.25rem;
-    bottom: -1.9375rem;
+    bottom: -2.25rem; /* was -1.9375rem*/
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
