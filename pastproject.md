@@ -3,7 +3,7 @@
 ---
 
 <h2 style="font-size:1.25rem; text-align:justify; margin:0; font-weight:800;">
-## Spatial Expansion of the Subregional Timber Supply (SRTS) Model to the Central Hardwood Forest Region
+Spatial Expansion of the Subregional Timber Supply (SRTS) Model to the Central Hardwood Forest Region
 </h2>
 
 <div style="text-align: justify; text-justify: inter-word; text-align-last: left; hyphens: auto;">
