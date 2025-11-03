@@ -19,14 +19,24 @@
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
               {%- for childlink in link[1] -%}
                 {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+<!--   replaced with lines 23-27   <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a> -->
+<a class="dropdown-item"
+   href="{% if linkparts[1] contains '://' %}{{ linkparts[1] }}{% else %}{{ linkparts[1] | relative_url }}{% endif %}"
+   {% if linkparts[1] contains '://' or linkparts[1] contains '.pdf' %}target="_blank" rel="noopener"{% endif %}>
+  {{ linkparts[0] }}
+</a>
                 {%- endfor -%}
               {%- endfor %}
             </div>
           </li>
         {% else %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+ <!--   replaced with lines 35-39   <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a> -->
+            <a class="nav-link"
+   href="{% if link[1] contains '://' %}{{ link[1] }}{% else %}{{ link[1] | relative_url }}{% endif %}"
+   {% if link[1] contains '://' or link[1] contains '.pdf' %}target="_blank" rel="noopener"{% endif %}>
+  {{ link[0] }}
+</a>
           </li>
         {%- endif -%}
       {%- endfor -%}
