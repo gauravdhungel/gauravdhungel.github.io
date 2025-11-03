@@ -15,7 +15,9 @@ We examined the importance of market demand parameters, including growth rates f
 
 ---
 
-## Economy-wide Impacts of Projected White Oak (*Quercus alba*) Timber Supply in Kentucky: A CGE Model Analysis
+<h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
+Economy-wide Impacts of Projected White Oak (*Quercus alba*) Timber Supply in Kentucky: A CGE Model Analysis
+</h2>
 
 We use a dynamic computable general equilibrium (CGE) model to assess the potential economic impacts of the projected white oak timber supply following an overall increased supply of white oak sawlogs but reduced supply of high-quality white oak sawlogs in Kentucky. Results generated from a dynamic computable general equilibrium (CGE) model indicate a cumulative present-value GDP reduction of USD 3.66 billion, a USD 0.71 billion decline in consumer welfare, and other sectoral contractions over 40 years (2018–2058).
 
@@ -25,7 +27,9 @@ We use a dynamic computable general equilibrium (CGE) model to assess the potent
 
 ---
 
-## A 50-year Outlook of White Oak (*Quercus alba*) Inventory in Kentucky
+<h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
+A 50-year Outlook of White Oak (*Quercus alba*) Inventory in Kentucky
+</h2>
 
 Using Forest Inventory and Analysis (FIA) data together with the Forest Vegetation Simulator (FVS), we performed a base run analysis of projected inventory levels of white oak sawlogs to better understand whether the inventory level is sustainable to support the current harvest level of white oak in the future. The projections were further examined by tree grades to provide a general outlook on the quality of white oak timber growing in Kentucky’s forests in posterity. By doing so, we generated results that indicate that projected inventory levels of white oak sawlogs cannot be considered sustainable to support current harvest levels from 2058 onwards. In addition, the long-term trends in inventory levels of high-quality white oak sawlogs would be continuously declining whereas that of low-quality sawlogs would be steadily increasing. 
 
