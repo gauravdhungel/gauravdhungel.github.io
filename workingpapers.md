@@ -25,18 +25,6 @@ To examine the economics of the potential management intervention for improved o
 ---
 
 <h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
-Physical Presence, Practical Absence: Accessibility of Timber Inventory in the Eastern US
-</h2>
-
-We employ a mix of regression and spatial analysis to estimate and visualize timber and carbon accessibility on eastern forest land in the US – and how species-specific estimates vary, in our case, white oak. The logistic regression shows that all seven biophysical and social characteristics, i.e., site physiography, productivity, slope, road distance, amenity value, ownership, and past harvest experience, significantly explain the lack of harvest/management decisions on forested lands in the eastern US. The subsequent spatial analysis illustrates that the higher timber accessibility spots/timber basins are mostly concentrated in the coastal Atlantic plains, gulf coast of the Southeast, and most of Maine, whereas the lower timber accessibility spots/timber basins are largely concentrated along the mountainous region of the Appalachia, the Ozarks, Ouachita, parts of the upper Midwest, and drier parts of west Texas.
-
-<img src="/assets/img/Fig3.jpg" alt="Accessible">
-
-**Preprint:** <https://dx.doi.org/10.2139/ssrn.5360648>
-
----
-
-<h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
 Management, Markets, and Mesophication: An Empirical Exploration of Oak Forests in the Southeastern US
 </h2>
 
