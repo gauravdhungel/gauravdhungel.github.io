@@ -7,7 +7,7 @@ How Much Wood Is Out There? It Depends on the Method
 
 March 11, 2026
 
-**Check out here:** <https://faculty.cnr.ncsu.edu/justinbaker/2026/03/11/how-much-wood-is-out-there-it-depends-on-the-method/>
+**Check out here:** <a href="https://faculty.cnr.ncsu.edu/justinbaker/2026/03/11/how-much-wood-is-out-there-it-depends-on-the-method/" target="_blank" rel="noopener noreferrer">Read the blog post</a>
 
 ---
 
