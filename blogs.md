@@ -2,12 +2,12 @@
 ---
 
 <h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
-How Much Wood Is Out There? It Depends on the Method
+<a href="https://faculty.cnr.ncsu.edu/justinbaker/2026/03/11/how-much-wood-is-out-there-it-depends-on-the-method/" target="_blank" rel="noopener noreferrer">How Much Wood Is Out There? It Depends on the Method</a>
 </h2>
 
 March 11, 2026
 
-**Check out here:** <a href="https://faculty.cnr.ncsu.edu/justinbaker/2026/03/11/how-much-wood-is-out-there-it-depends-on-the-method/" target="_blank" rel="noopener noreferrer">Read the blog post</a>
+
 
 ---
 
