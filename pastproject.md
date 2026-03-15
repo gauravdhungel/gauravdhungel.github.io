@@ -9,7 +9,7 @@ We employ a mix of regression and spatial analysis to estimate and visualize tim
 
 <img src="/assets/img/Fig3.jpg" alt="Accessible">
 
-**Full paper:** <https://doi.org/10.1016/j.tfp.2026.101155>
+**Full paper:** <a href="https://doi.org/10.1016/j.tfp.2026.101155" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.tfp.2026.101155</a>
 
 ---
 
