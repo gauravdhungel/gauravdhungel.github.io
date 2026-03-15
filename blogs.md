@@ -12,21 +12,21 @@ March 11, 2026
 ---
 
 <h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
-New Markets for Small Roundwood and Forest Residues in Appalachia?
+<a href="https://research.cnr.ncsu.edu/sofac/2024/01/13/new-markets-for-small-roundwood-and-forest-residues-in-appalachia/" target="_blank" rel="noopener noreferrer">New Markets for Small Roundwood and Forest Residues in Appalachia?</a>
 </h2>
 
 January 13, 2024
 
-**Check out here:** <https://research.cnr.ncsu.edu/sofac/2024/01/13/new-markets-for-small-roundwood-and-forest-residues-in-appalachia/>
+
 
 ---
 
 <h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
-Demand growth and price responsiveness can influence inventory tipping points of high-grade white oak
+<a href="https://research.cnr.ncsu.edu/sofac/2023/02/22/demand-growth-and-price-responsiveness-can-influence-inventory-tipping-points-of-high-grade-white-oak/" target="_blank" rel="noopener noreferrer">Demand growth and price responsiveness can influence inventory tipping points of high-grade white oak</a>
 </h2>
 
 February 22, 2023
 
-**Check out here:** <https://research.cnr.ncsu.edu/sofac/2023/02/22/demand-growth-and-price-responsiveness-can-influence-inventory-tipping-points-of-high-grade-white-oak/>
+
 
 ---
