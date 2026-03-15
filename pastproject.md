@@ -21,8 +21,7 @@ We examined the importance of market demand parameters, including growth rates f
 
 <img src="/assets/img/Fig2.jpg" alt="Hardwood SRTS">
 
-**Full paper:** <https://doi.org/10.1093/jofore/fvad005>
-
+**Full paper:** <a href="https://doi.org/10.1093/jofore/fvad005" target="_blank" rel="noopener noreferrer">https://doi.org/10.1093/jofore/fvad005</a>
 
 ---
 
@@ -34,7 +33,7 @@ We use a dynamic computable general equilibrium (CGE) model to assess the potent
 
 <img src="/assets/img/Table1.jpg" alt="CGE model flow">
 
-**Full paper:** <https://doi.org/10.3390/f15010093>
+**Full paper:** <a href="https://doi.org/10.3390/f15010093" target="_blank" rel="noopener noreferrer">https://doi.org/10.3390/f15010093</a>
 
 ---
 
@@ -46,6 +45,6 @@ Using Forest Inventory and Analysis (FIA) data together with the Forest Vegetati
 
 <img src="/assets/img/Fig1.jpg" alt="White oak inventory outlook">
 
-**Full paper:** <https://doi.org/10.1093/jofore/fvad041>
+**Full paper:** <a href="https://doi.org/10.1093/jofore/fvad041" target="_blank" rel="noopener noreferrer">https://doi.org/10.1093/jofore/fvad041</a>
 
 ---
