@@ -6,7 +6,7 @@ An Ecological-Economic Framework of Alternative Forest Management in the Souther
 </h2>
 
 This project aims to refine forest sector models by building an ecological-economic framework that simulates detailed landscape-scale management interventions in complex hardwood forests of the southern Appalachia. In my current capacity as an ORISE fellow, I am building an economic optimization model of hardwood systems and analyzing simulation modeling results
-to assess interactions between market dynamics, environmental change, and management interventions, including assessing new and emerging markets for biochar on the resource base and rural economy in southern Appalachia. A related [blog post](https://research.cnr.ncsu.edu/sofac/2024/01/13/new-markets-for-small-roundwood-and-forest-residues-in-appalachia/). 
+to assess interactions between market dynamics, environmental change, and management interventions, including assessing new and emerging markets for biochar on the resource base and rural economy in southern Appalachia. 
 
 <img src="/assets/img/Fig4.jpg" alt="ecol econ">
 
@@ -20,7 +20,8 @@ To examine the economics of the potential management intervention for improved o
 
 <img src="/assets/img/Table3.jpg" alt="wnc">
 
-**Dissertation (Chapter 4):** <https://www.lib.ncsu.edu/resolver/1840.20/45570>
+**Dissertation (Chapter 4):** <a href="https://www.lib.ncsu.edu/resolver/1840.20/45570" target="_blank" rel="noopener noreferrer">https://www.lib.ncsu.edu/resolver/1840.20/45570</a>
+
 
 ---
 
@@ -32,6 +33,7 @@ This paper primarily uses the Forest Inventory and Analysis (FIA) database to pe
 
 <img src="/assets/img/TABLE2.jpg" alt="Market Meso">
 
-**Preprint:** <https://dx.doi.org/10.2139/ssrn.5166393>
+**Preprint:** <a href="https://dx.doi.org/10.2139/ssrn.5166393" target="_blank" rel="noopener noreferrer">https://dx.doi.org/10.2139/ssrn.5166393</a>
+
 
 ---
