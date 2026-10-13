@@ -1,3 +1,12 @@
+---
+
+<h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
+Acorn review: Biochar and its applications in US forestry
+</h2>
+
+This brief review examines the key properties of wood-based biochar, synthesizes current evidence on its effects on forest sites, and identifies critical research gaps that warrant immediate attention to better understand its potential for broader, commercial adoption, particularly in the southeastern US.
+
+**Full paper:** <a href="https://doi.org/10.1016/j.foreco.2026.124134" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.foreco.2026.124134</a>
 
 ---
 
