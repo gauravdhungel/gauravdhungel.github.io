@@ -2,11 +2,10 @@
 ---
 
 <h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
-An Ecological-Economic Framework of Alternative Forest Management in the Southern Appalachian Region
+An Economic Model of Hardwood Management and Markets in the Southern Appalachian Region (SAR)
 </h2>
 
-This project aims to refine forest sector models by building an ecological-economic framework that simulates detailed landscape-scale management interventions in complex hardwood forests of the southern Appalachia. In my current capacity as an ORISE fellow, I am building an economic optimization model of hardwood systems and analyzing simulation modeling results
-to assess interactions between market dynamics, environmental change, and management interventions, including assessing new and emerging markets for biochar on the resource base and rural economy in southern Appalachia. 
+We build a landscape-scale harvest allocation model that considers forests, management, and markets in the southern Appalachia. Specifically, the model integrates FVS outputs into a linear programming framework, with the objective of allocating each stand’s acreage among management options to maximize discounted net value over a 50-year period, subject to land-balance and exogenous demand constraints. As a thought experiment, the model allows us to examine shifts in management strategies across a range of biochar prices and production costs. 
 
 <img src="/assets/img/Fig4.jpg" alt="ecol econ">
 
