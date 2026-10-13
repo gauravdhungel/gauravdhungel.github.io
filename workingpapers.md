@@ -7,6 +7,8 @@ Expanding SubRegional Timber Supply (SRTS) Model to Western US
 
 The goal of this project is to extend and adapt SRTS to timber supply contexts in the Western United States. Phase 1 focuses on model updates and enhancements, including exploratory FIA data analysis using the FIADB-API, generation of typical SRTS input data, and development of separate growth and mortality estimates. Phase 2 focuses on addressing pertinent research questions through scenario analysis, particularly by evaluating forest and market dynamics in response to disturbance events such as drought and wildfire. 
 
+<img src="/assets/img/Fig6.png" alt="western FIA">
+
 <img src="/assets/img/Fig5.png" alt="western srts">
 
 ---
