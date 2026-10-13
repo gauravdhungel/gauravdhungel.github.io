@@ -2,12 +2,22 @@
 ---
 
 <h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
+Expanding SubRegional Timber Supply (SRTS) Model to Western US
+</h2>
+
+The goal of this project is to extend and adapt SRTS to timber supply contexts in the Western United States. Phase 1 focuses on model updates and enhancements, including exploratory FIA data analysis using the FIADB-API, generation of typical SRTS input data, and development of separate growth and mortality estimates. Phase 2 focuses on addressing pertinent research questions through scenario analysis, particularly by evaluating forest and market dynamics in response to disturbance events such as drought and wildfire. 
+
+<img src="/assets/img/Fig5.jpg" alt="western srts">
+
+---
+
+<h2 style="font-size:1.5rem; line-height:1.3; margin:0;">
 An Economic Model of Hardwood Management and Markets in the Southern Appalachian Region (SAR)
 </h2>
 
 We build a landscape-scale harvest allocation model that considers forests, management, and markets in the southern Appalachia. Specifically, the model integrates FVS outputs into a linear programming framework, with the objective of allocating each stand’s acreage among management options to maximize discounted net value over a 50-year period, subject to land-balance and exogenous demand constraints. As a thought experiment, the model allows us to examine shifts in management strategies across a range of biochar prices and production costs. 
 
-<img src="/assets/img/Fig4.jpg" alt="ecol econ">
+<img src="/assets/img/Fig4.jpg" alt="southern app">
 
 ---
 
